@@ -46,7 +46,7 @@ GEM
     simplecov-html (0.10.2)
     test-unit (3.4.1)
       power_assert
-    timecop (0.9.4)
+    timecop (0.9.5)
     unicode-display_width (2.0.0)
     yard (0.9.26)
 
@@ -61,7 +61,7 @@ DEPENDENCIES
   rubocop (= 1.14.0)
   simplecov (= 0.17.1, < 0.18)
   test-unit (= 3.4.1)
-  timecop (= 0.9.4)
+  timecop (= 0.9.5)
   yard (= 0.9.26)
 
 BUNDLED WITH
