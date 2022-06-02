@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency('simplecov', '0.17.1', '< 0.18')
   spec.add_development_dependency('test-unit', '3.4.1')
   spec.add_development_dependency('timecop', '0.9.4')
-  spec.add_development_dependency('yard', '0.9.26')
+  spec.add_development_dependency('yard', '0.9.28')
 end
